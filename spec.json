@@ -1,7 +1,7 @@
 {
     "pinionVersion": "0.2.0",
-    "name": "OHS-main-20",
-    "description": "Example diagram",
+    "name": "OHS 2.0.x",
+    "description": "OHS gateway diagram",
     "front": {
         "file": "front.png",
         "area": {
